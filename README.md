@@ -15,6 +15,9 @@ Before now, there was no publicly available database for stringed instuments. A 
 
 Included:
 Visualizations of Spread of Violins over time
+
+<img src="https://user-images.githubusercontent.com/57462166/120850985-2d1a1a00-c546-11eb-9cf4-b31145ec3ece.png" alt="drawing" width="200"/>
+
 ![Interactive Map Snippet](https://user-images.githubusercontent.com/57462166/120850985-2d1a1a00-c546-11eb-9cf4-b31145ec3ece.png)
 
 Data preprocessing
