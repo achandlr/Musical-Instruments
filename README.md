@@ -1,9 +1,9 @@
-![Auctioned Insturments Value Distribution](https://user-images.githubusercontent.com/57462166/120853636-fba34d80-c549-11eb-8ed7-3a76460e7419.png)
 This repository contains a collection of coding projects focused on musical instruments. 
+
 Included in the projects are:
 1. A database of thousands of instruments with maker names, country built, location made, and year made, along with photos of the instrument. 
 
-3. Convolutional neural networks that can predict an instrument’s price, age, and location built.
+2. Convolutional neural networks that can predict an instrument’s price, age, and location built.
 ![Violin Tier Categorize on New Images](https://user-images.githubusercontent.com/57462166/120851029-402cea00-c546-11eb-9ebe-bc53bd016495.png)
 
 3. A mp4 file showing an instrument guessing game with thousands of images.
@@ -16,8 +16,15 @@ Before now, there was no publicly available database for stringed instuments. A 
 Included:
 Visualizations of Spread of Violins over time
 ![Interactive Map Snippet](https://user-images.githubusercontent.com/57462166/120850985-2d1a1a00-c546-11eb-9cf4-b31145ec3ece.png)
+
 Data preprocessing
+![Snippet Data Scraped](https://user-images.githubusercontent.com/57462166/120853962-6e142d80-c54a-11eb-926f-7ba0d6591a03.PNG)
+![Auctioned Insturments Year Made Distribution](https://user-images.githubusercontent.com/57462166/120854048-94d26400-c54a-11eb-8b6f-dbbb21872537.png)
+
 Convolutional Neural Network to predict worth of instrument with data generation.
+![Violin Tier Categorize on New Images](https://user-images.githubusercontent.com/57462166/120853912-5b015d80-c54a-11eb-9f93-fccc7c0fc909.PNG)
+![Training and Validatin](https://user-images.githubusercontent.com/57462166/120854092-a582da00-c54a-11eb-8469-2356f978849f.PNG)
+
 Novel violin inflation statistics for investors
 ![Instrument Inflation](https://user-images.githubusercontent.com/57462166/120851532-ef69c100-c546-11eb-9a80-18241c4b55c7.png)
 ![Value of Instruments over Time](https://user-images.githubusercontent.com/57462166/120851544-f42e7500-c546-11eb-8a08-bf32403743eb.png)
