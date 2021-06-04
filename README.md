@@ -1,10 +1,9 @@
-<img width="660" alt="Screen Shot 2021-06-04 at 5 04 31 PM" src="https://user-images.githubusercontent.com/57462166/120867162-5e531400-c55f-11eb-863c-8bc8a8beb492.png">
 This repository contains a collection of coding projects focused on musical instruments. 
 
 Included in the projects are:
 1. A database of thousands of instruments with maker names, country built, location made, and year made, along with photos of the instrument. 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/57462166/120865827-c2280d80-c55c-11eb-977c-fe245bffc821.png" width="400" class="center"/>
+<img src="https://user-images.githubusercontent.com/57462166/120867162-5e531400-c55f-11eb-863c-8bc8a8beb492.png" width="400" class="center"/>
 </p>
 
 2. Convolutional neural networks that can predict an instrument’s price, age, and location built.
