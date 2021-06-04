@@ -4,7 +4,7 @@ Included in the projects are:
 1. A database of thousands of instruments with maker names, country built, location made, and year made, along with photos of the instrument. 
 
 2. Convolutional neural networks that can predict an instrument’s price, age, and location built.
-![Violin Tier Categorize on New Images](https://user-images.githubusercontent.com/57462166/120851029-402cea00-c546-11eb-9ebe-bc53bd016495.png)
+![Violin Tier Categorize on New Images](https://user-images.githubusercontent.com/57462166/120851029-402cea00-c546-11eb-9ebe-bc53bd016495.png | width=100)
 
 3. A mp4 file showing an instrument guessing game with thousands of images.
 <img width="277" alt="Screen Shot 2021-06-04 at 2 00 44 PM" src="https://user-images.githubusercontent.com/57462166/120850623-b0873b80-c545-11eb-8628-d1c73d39b83e.png">
