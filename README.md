@@ -26,11 +26,11 @@ Data preprocessing
 
 Convolutional Neural Network to predict worth of instrument with data generation.
 <img src="https://user-images.githubusercontent.com/57462166/120854092-a582da00-c54a-11eb-8469-2356f978849f.PNG" width="600" class="right"/>
-![Training and Validatin](https://user-images.githubusercontent.com/57462166/120854092-a582da00-c54a-11eb-8469-2356f978849f.PNG)
 
 Novel violin inflation statistics for investors
-![Instrument Inflation](https://user-images.githubusercontent.com/57462166/120851532-ef69c100-c546-11eb-9a80-18241c4b55c7.png)
-![Value of Instruments over Time](https://user-images.githubusercontent.com/57462166/120851544-f42e7500-c546-11eb-8a08-bf32403743eb.png)
+<img src="https://user-images.githubusercontent.com/57462166/120851532-ef69c100-c546-11eb-9a80-18241c4b55c7.png" width="600" class="right"/>
+<img src="https://user-images.githubusercontent.com/57462166/120851544-f42e7500-c546-11eb-8a08-bf32403743eb.png" width="600" class="right"/>
+
 
 Not Included:
 WebScraping Code
