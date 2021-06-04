@@ -1,3 +1,4 @@
+![Auctioned Insturments Value Distribution](https://user-images.githubusercontent.com/57462166/120853636-fba34d80-c549-11eb-8ed7-3a76460e7419.png)
 This repository contains a collection of coding projects focused on musical instruments. 
 Included in the projects are:
 1. A database of thousands of instruments with maker names, country built, location made, and year made, along with photos of the instrument. 
