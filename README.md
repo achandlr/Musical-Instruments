@@ -1,3 +1,4 @@
+<img width="660" alt="Screen Shot 2021-06-04 at 5 04 31 PM" src="https://user-images.githubusercontent.com/57462166/120867162-5e531400-c55f-11eb-863c-8bc8a8beb492.png">
 This repository contains a collection of coding projects focused on musical instruments. 
 
 Included in the projects are:
