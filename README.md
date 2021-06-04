@@ -20,14 +20,12 @@ Visualizations of Spread of Violins over time
 
 Data preprocessing
 
-<img src="https://user-images.githubusercontent.com/57462166/120853962-6e142d80-c54a-11eb-926f-7ba0d6591a03.PNG" width="400" class="left"/>
-<img src="https://user-images.githubusercontent.com/57462166/120854048-94d26400-c54a-11eb-8b6f-dbbb21872537.png" width="400" class="right"/>
+<img src="https://user-images.githubusercontent.com/57462166/120853962-6e142d80-c54a-11eb-926f-7ba0d6591a03.PNG" width="600" class="left"/>
+<img src="https://user-images.githubusercontent.com/57462166/120854048-94d26400-c54a-11eb-8b6f-dbbb21872537.png" width="600" class="right"/>
 
-![Snippet Data Scraped](https://user-images.githubusercontent.com/57462166/120853962-6e142d80-c54a-11eb-926f-7ba0d6591a03.PNG)
-![Auctioned Insturments Year Made Distribution](https://user-images.githubusercontent.com/57462166/120854048-94d26400-c54a-11eb-8b6f-dbbb21872537.png)
 
 Convolutional Neural Network to predict worth of instrument with data generation.
-![Violin Tier Categorize on New Images](https://user-images.githubusercontent.com/57462166/120853912-5b015d80-c54a-11eb-9f93-fccc7c0fc909.PNG)
+<img src="https://user-images.githubusercontent.com/57462166/120854092-a582da00-c54a-11eb-8469-2356f978849f.PNG" width="600" class="right"/>
 ![Training and Validatin](https://user-images.githubusercontent.com/57462166/120854092-a582da00-c54a-11eb-8469-2356f978849f.PNG)
 
 Novel violin inflation statistics for investors
