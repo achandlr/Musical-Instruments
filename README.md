@@ -47,6 +47,11 @@ Novel violin inflation statistics for investors (2020)
 <img src="https://user-images.githubusercontent.com/57462166/120851544-f42e7500-c546-11eb-8a08-bf32403743eb.png" width="600" class="right"/>
 </p>
 
+AlexNet With Replaced Last Linear Layer
+<p align="center">
+<img src="https://github.com/achandlr/Musical-Instruments/blob/master/2022%20Implementation%20(Improved%20Implementation%20With%20Different%20Focus)/Images%20From%20Project/AlexNet_With_Replaced_Last_Linear_Layer.png?raw=true" width="600" class="right"/>
+</p>
+
 Pre-Trained AlexNet Fine-Tuned on Instrument Database (2022)
 <p align="center">
 <img src="https://github.com/achandlr/Musical-Instruments/blob/master/2022%20Implementation%20(Improved%20Implementation%20With%20Different%20Focus)/Images%20From%20Project/Confusion_Matrix_Ins_View.png?raw=true" width="600" class="right"/>
