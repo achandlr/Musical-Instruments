@@ -1,6 +1,8 @@
 This repository contains a collection of coding projects focused on musical instruments. 
 
 Included in the projects are:
+## Stage 1 (2020)
+
 1. A database of thousands of instruments with maker names, country built, location made, and year made, along with photos of the instrument (2020). 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57462166/120867162-5e531400-c55f-11eb-863c-8bc8a8beb492.png" width="400" class="center"/>
@@ -33,7 +35,6 @@ Data preprocessing (2020)
 <img src="https://user-images.githubusercontent.com/57462166/120854048-94d26400-c54a-11eb-8b6f-dbbb21872537.png" width="600" class="right"/>
 </p>
 
-
 Convolutional Neural Network to predict worth of instrument with data generation (2020).
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57462166/120854092-a582da00-c54a-11eb-8469-2356f978849f.PNG" width="600" class="right"/>
@@ -47,16 +48,34 @@ Novel violin inflation statistics for investors (2020)
 <img src="https://user-images.githubusercontent.com/57462166/120851544-f42e7500-c546-11eb-8a08-bf32403743eb.png" width="600" class="right"/>
 </p>
 
-AlexNet With Replaced Last Linear Layer
+## Stage 2 (2022)
+
+Pre-Trained AlexNet With Replaced Last Linear Layer Fine-Tuned on Instrument Database (2022)
 <p align="center">
 <img src="https://github.com/achandlr/Musical-Instruments/blob/master/2022%20Implementation%20(Improved%20Implementation%20With%20Different%20Focus)/Images%20From%20Project/AlexNet_With_Replaced_Last_Linear_Layer.png?raw=true" width="600" class="right"/>
 </p>
 
-Pre-Trained AlexNet Fine-Tuned on Instrument Database (2022)
+Confusion Matrices for Predicting Instrument View (front or back), Type (Violin, Viola, Cello) and Country Made of Instrument (2022)
 <p align="center">
 <img src="https://github.com/achandlr/Musical-Instruments/blob/master/2022%20Implementation%20(Improved%20Implementation%20With%20Different%20Focus)/Images%20From%20Project/Confusion_Matrix_Ins_View.png?raw=true" width="600" class="right"/>
 </p>
+<p align="center">
+<img src="https://github.com/achandlr/Musical-Instruments/blob/master/2022%20Implementation%20(Improved%20Implementation%20With%20Different%20Focus)/Images%20From%20Project/Confusion_Matrix_Ins_Type.png?raw=true" width="600" class="right"/>
+</p>
+<p align="center">
+<img src="https://github.com/achandlr/Musical-Instruments/blob/master/2022%20Implementation%20(Improved%20Implementation%20With%20Different%20Focus)/Images%20From%20Project/Confusion_Matrix_Ins_Country.png?raw=true" width="600" class="right"/>
+</p>
 
+
+Accuracy Plots for Instument Prediction Classification (2022)
+<p align="center">
+<img src="https://github.com/achandlr/Musical-Instruments/blob/master/2022%20Implementation%20(Improved%20Implementation%20With%20Different%20Focus)/Images%20From%20Project/AlexNet_Accuracy_with_Fine-Tuning__and_Modified_Last_Linear_Layer.png" width="600" class="right"/>
+</p>
+
+Saliency Map of Image Classification (2022)
+<p align="center">
+<img src="https://github.com/achandlr/Musical-Instruments/blob/master/2022%20Implementation%20(Improved%20Implementation%20With%20Different%20Focus)/Images%20From%20Project/Violin_Saliency_Map.png?raw=true" width="600" class="right"/>
+</p>
 
 Confusion Matrices for 
 Not Included:
