@@ -82,7 +82,6 @@ Not Included: <br />
 WebScraping Code (2020) <br />
 Wolfram Data city to country converter (2020) <br />
 GUI code for the guessing game (2020) <br />
-Please check out my paper "Using Transfer Learning for Musical Instrument Classification" in the following folder: "2022 Implementation (Improved Implementation With Different Focus)/"
-
+## Please check out my paper "Using Transfer Learning for Musical Instrument Classification" in the following folder: "2022 Implementation (Improved Implementation With Different Focus)/"
 
 
