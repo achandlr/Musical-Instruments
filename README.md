@@ -72,16 +72,17 @@ Accuracy Plots for Instument Prediction Classification (2022)
 <img src="https://github.com/achandlr/Musical-Instruments/blob/master/2022%20Implementation%20(Improved%20Implementation%20With%20Different%20Focus)/Images%20From%20Project/AlexNet_Accuracy_with_Fine-Tuning__and_Modified_Last_Linear_Layer.png" width="600" class="right"/>
 </p>
 
-Saliency Map of Image Classification (2022)
+Creating Class Saliency Map to Detect Important Features (2022)
 <p align="center">
 <img src="https://github.com/achandlr/Musical-Instruments/blob/master/2022%20Implementation%20(Improved%20Implementation%20With%20Different%20Focus)/Images%20From%20Project/Violin_Saliency_Map.png?raw=true" width="600" class="right"/>
 </p>
 
 Confusion Matrices for 
-Not Included:
-WebScraping Code (2020)
-Wolfram Data city to country converter (2020)
-GUI code for the guessing game (2020)
+Not Included: <br />
+WebScraping Code (2020) <br />
+Wolfram Data city to country converter (2020) <br />
+GUI code for the guessing game (2020) <br />
+Please check out my paper "Using Transfer Learning for Musical Instrument Classification" in the following folder: "2022 Implementation (Improved Implementation With Different Focus)/"
 
 
 
